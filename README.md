@@ -187,9 +187,3 @@ For Supabase Realtime (live message updates), enable the `messages` table under 
 | `EXPO_PUBLIC_SUPABASE_ANON_KEY` | Yes | Supabase anonymous (public) key |
 
 All variables are prefixed with `EXPO_PUBLIC_` so Expo bundles them into the client at build time. Never use the Supabase **service role key** here.
-
----
-
-## License
-
-This project does not currently specify a license.
